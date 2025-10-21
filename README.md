@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Overview
-This repository presents my MSc project at the **University of Debrecen**:  
+This repository presents one of my MSc project at the **University of Debrecen**:  
 the design and dynamic analysis of a **3-DOF Cartesian robotic manipulator** for payload transfer.
 
 📄 [Full Project Report (PDF)](Docs/CartesianManipulator_Report.pdf)
@@ -77,9 +77,10 @@ the design and dynamic analysis of a **3-DOF Cartesian robotic manipulator** for
 
 ### 🔖 Citation
 If you use this work, please cite:
-> Mohammad Alghazawi, *Cartesian Robotic Manipulator*, MSc Project, University of Debrecen, 2023.
+> Mohammad Alghazawi, *Cartesian Robotic Manipulator*, MSc Projects, University of Debrecen, 2023.
 
 ---
 
 ### 📜 License
 This project is released under the MIT License. Feel free to use and adapt with attribution.
+
