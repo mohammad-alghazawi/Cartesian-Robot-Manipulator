@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Overview
-This repository presents one of my MSc project at the **University of Debrecen**:  
+This repository presents one of my MSc projects at the **University of Debrecen**:  
 the design and dynamic analysis of a **3-DOF Cartesian robotic manipulator** for payload transfer.
 
 📄 [Full Project Report (PDF)](Docs/CartesianManipulator_Report.pdf)
@@ -83,4 +83,5 @@ If you use this work, please cite:
 
 ### 📜 License
 This project is released under the MIT License. Feel free to use and adapt with attribution.
+
 
